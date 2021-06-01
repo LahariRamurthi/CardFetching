@@ -11,8 +11,8 @@
   width: 100%;
   max-width: 900px;
   padding: 20px;
-  background-color: goldenrod;
-  color:  #282c34;
+  background-color: #FFD700;
+  color:   #030324;
   border-radius: 20px;
   margin: 10px 0;;
   display: flex;
@@ -27,8 +27,8 @@
   max-width: 900px;
   padding: 8px 0 ;
   margin: 10px 10px 0 30px;
-  background-color: #282c34;
-  color:#fff;
+  background-color: #0b5091;
+  color:white;
   font-size: 18px;
   margin-bottom: 30px;
   margin-top: 30px;

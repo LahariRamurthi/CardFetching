@@ -33,7 +33,7 @@ const loadMoreItems = () =>{
     return(
       <div className="card">
        <div className="id">
-        <span >{item.id}</span>
+        
        </div>
        <p>{item.body}</p>
 </div>)

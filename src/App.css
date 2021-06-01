@@ -11,8 +11,8 @@
   width: 100%;
   max-width: 450px;
   padding: 20px;
-  background-color: #282c34;
-  color: wheat;
+  background-color: #030324;
+  color: #FFB6C1;
   margin: 10px 0;;
 }
 .id{
@@ -35,8 +35,8 @@ button {
   max-width: 900px;
   padding: 16px 0 ;
   margin: 10px 0 0 0;
-  background-color: #282c34;
-  color:#fff;
+  background-color: #0b5091;;
+  color:white;
   font-size: 18px;
   margin-bottom: 30px;
 }
